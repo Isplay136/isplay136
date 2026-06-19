@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/isplay136">
-    <img src="https://github-readme-stats.vercel.app/api?username=isplay136&show_icons=true&count_private=true&include_all_commits=true&bg_color=4B0082&title_color=000000&text_color=FFFFFF&icon_color=000000&border_color=6f42c1" height="180px" style="margin: 5px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=isplay136&show_icons=true&count_private=true&include_all_commits=true&bg_color=4B0082&title_color=000000&text_color=FFFFFF&icon_color=000000&border_color=6f42c1" height="195px" style="margin: 5px;" />
   </a>
   <a href="https://github.com/isplay136">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isplay136&layout=compact&langs_count=5&bg_color=4B0082&title_color=000000&text_color=FFFFFF&border_color=6f42c1" height="180px" style="margin: 5px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isplay136&langs_count=6&bg_color=4B0082&title_color=000000&text_color=FFFFFF&border_color=6f42c1" height="195px" style="margin: 5px;" />
   </a>
 </div>
 
