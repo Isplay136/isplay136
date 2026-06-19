@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Gengar da Esquerda -->
-  <img src="https://i.imgur.com/2Xg0wsh.gif" height="120px" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db7c6753-956b-4327-8db9-27975ad43253/db2bpd5-0b5cd9ea-53cc-409c-91bb-1651be393b6c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kYjdjNjc1My05NTZiLTQzMjctOGRiOS0yNzk3NWFkNDMyNTMvZGIyYnBkNS0wYjVjZDllYS01M2NjLTQwOWMtOTFiYi0xNjUxYmUzOTNiNmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6NzzgMkFJoy8cQo-lgye7nP85dmlCxiK2o2nW_36rbA" height="120px" style="vertical-align: middle; margin: 5px;" />
 
   <!-- Card de Status Geral -->
   <a href="https://github.com/isplay136">
@@ -13,7 +13,7 @@
   </a>
 
   <!-- Gengar da Direita -->
-  <img src="https://i.imgur.com/2Xg0wsh.gif" height="120px" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db7c6753-956b-4327-8db9-27975ad43253/db2bpd5-0b5cd9ea-53cc-409c-91bb-1651be393b6c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kYjdjNjc1My05NTZiLTQzMjctOGRiOS0yNzk3NWFkNDMyNTMvZGIyYnBkNS0wYjVjZDllYS01M2NjLTQwOWMtOTFiYi0xNjUxYmUzOTNiNmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6NzzgMkFJoy8cQo-lgye7nP85dmlCxiK2o2nW_36rbA" height="120px" style="vertical-align: middle; margin: 5px;" />
 </div>
 
 <!--
